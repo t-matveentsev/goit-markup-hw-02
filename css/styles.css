@@ -3,12 +3,7 @@ body {
   background-color: #fff;
   color: #434455;
 }
-/*
-default settings
-font-size: 16;
-font-weight(title): 700;
-font-weight(text): 400;
-*/
+
 a {
   text-decoration: none;
   font-style: normal;
@@ -17,6 +12,7 @@ ul,
 ol {
   list-style: none;
 }
+
 /* #region header*/
 
 .page-nav .logo-top {
@@ -90,7 +86,6 @@ ol {
 .title-ben {
   color: #2e2f42;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
@@ -118,14 +113,12 @@ ol {
 .title-team-list {
   color: #2e2f42;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
 }
 .text-team-list {
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
@@ -145,7 +138,6 @@ ol {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 40px;
   letter-spacing: 0.72px;
@@ -154,14 +146,12 @@ ol {
 .title-port-list {
   color: #2e2f42;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
 .text-port-list {
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
@@ -174,7 +164,6 @@ ol {
 }
 .footer-logo {
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
@@ -188,7 +177,6 @@ ol {
 .footer-text {
   color: #f4f4fd;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
